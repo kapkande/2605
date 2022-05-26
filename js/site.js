@@ -1,8 +1,8 @@
 
 
    function clik() {
-   document.getElementsByClassName("burber_line").class.toggle("open");
-   document.getElementsByClassName("burber_line").class.toggle("close");
+   //document.getElementsByClassName("burber_line").class.toggle("open");
+   //document.getElementsByClassName("burber_line").class.toggle("close");
    document.getElementById("opens").classList.toggle("close");
    document.getElementById("opens").classList.toggle("open");
    document.getElementById("title_activ").classList.toggle("activ");
